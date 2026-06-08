@@ -115,8 +115,7 @@ ggplot(CreditCard, aes(x = dependents, y = expenditure, color = selfemp)) +
        color = "Employment Status") +
   theme_minimal()
 ```
-
-![Credit Card Expenditure by Self-Employment Status](graph_of_expenditure_vs_dependents.jpg)
+<img width="927" height="586" alt="image" src="https://github.com/user-attachments/assets/1f3eec1b-a56d-407c-a7ad-9bc36427371b" />
 
 ---
 
