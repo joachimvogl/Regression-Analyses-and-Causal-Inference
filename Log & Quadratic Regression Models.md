@@ -130,7 +130,7 @@ legend("topright", legend = c("Linear", "Quadratic"),
 ## Key Findings
 
 - In a purely **linear** specification, age has **no statistically significant effect** on monthly expenditure (p = 0.777).
-- Adding a **quadratic term** reveals a genuine **concave (rise-then-fall) relationship**: both age and age² are significant at the 5% level.
+- Adding a **quadratic term** creates a genuine **concave down (rise-then-fall) relationship**: both age and age² are significant at the 5% level.
 - The **linear-log** form fails to capture this pattern — `log(age)` is insignificant (p = 0.783) because a log curve cannot turn back downward.
 - Across all specifications, `dependents` is the most consistent predictor (significant at ~10%), while `selfemp` is never significant.
 - **Takeaway:** functional form matters. The right transformation is dictated by the true shape of the relationship, not applied by default.
