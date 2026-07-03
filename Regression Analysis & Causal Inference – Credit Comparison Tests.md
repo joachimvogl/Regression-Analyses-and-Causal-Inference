@@ -1,6 +1,6 @@
 # Regression Analysis & Causal Inference – Credit Comparison Tests
 
-**Joachim Vogl** | Colorado State University
+**Joachim Vogl**
 
 ---
 
