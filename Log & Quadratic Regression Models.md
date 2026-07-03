@@ -1,6 +1,6 @@
 # Log & Quadratic Regression Models
 
-**Joachim Vogl | Colorado State University**
+**Joachim Vogl**
 
 ## Overview
 
