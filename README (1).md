@@ -122,7 +122,8 @@ legend("topright", legend = c("Linear", "Quadratic"),
        col = c("green", "red"), lwd = 2)
 ```
 
-![Scatterplot of credit card expenditure against age, with a flat green linear fit and a concave red quadratic fit that rises then falls.](images/quadratic_plot.png)
+<img width="800" height="652" alt="PS_4_Plot of linear log and quadratic models" src="https://github.com/user-attachments/assets/bfc06d39-b458-4915-ae88-53a34c94006b" />
+
 
 *The green linear fit is essentially flat, while the red quadratic fit rises through the middle-age range and declines at the extremes — visual confirmation of the concave relationship.*
 
